@@ -1,0 +1,12 @@
+{
+	"name": "Your Life Bot",
+	"author": "SiWy k0go",
+	"main": "bot.js",
+	"version": "1.2.9",
+	"scripts": {"start": "node bot.js"},
+	"dependencies": {
+		"discord.js": "^11.2.0",
+		"fstorm": "^0.1.3",
+		"jimp": "^0.2.28"
+	}
+}
